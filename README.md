@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Matias Zambudio</h1>
-<h3 align="center">Soy un back-end apasionado</h3>
+<h3 align="center">Soy un desarrollador apasionado</h3>
 - 💬 Pregúntame sobre **HTML,CSS,JAVASCRIPT, PHP,MYSQL.**
 - 📫 Cómo contactarme **matyzam01@gmail.com**
 
