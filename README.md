@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Matias Zambudio</h1>
-<h3 align="center">Soy un desarrollador apasionado</h3>
-- 💬 Pregúntame sobre **HTML,CSS,JAVASCRIPT, PHP,MYSQL.**
-- 📫 Cómo contactarme **matyzam01@gmail.com**
+<h3 align="center">Soy un desarrollador juniors en busca de experiencia</h3>
+- 💬 **HTML - CSS - BOOTSTRAP - JAVASCRIPT - PHP - MYSQL - SQL - POWERBI**
+- 📫 Cómo contactarme **zambudiomatias@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/matias-zambudio" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https ://github.com/matyzambudio/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
