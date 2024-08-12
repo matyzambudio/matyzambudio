@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, me llamo Matias Zambudio</h1>
-<h3 align="center">Soy un desarrollador juniors en busca de experiencia</h3>
-- 💬 **HTML - CSS - BOOTSTRAP - JAVASCRIPT - PHP - MYSQL - SQL - POWERBI**
+<h3 align="center">Soy un desarrollador en busca de experiencia</h3>
+- 💬 **HTML - CSS - BOOTSTRAP - JAVASCRIPT - REACT - PHP - MYSQL - SQL SERVER MANAGEMENT STUDIO - POWERBI**
 - 📫 Cómo contactarme **zambudiomatias@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/matias-zambudio" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
